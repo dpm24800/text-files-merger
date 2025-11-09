@@ -62,7 +62,9 @@ MIT License © Dipak Pulami Magar
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/yourusername/merge-text-files.git
+   git clone https://github.com/dpm24800/text-files-merger.git
+   ```
+
 
 
 
